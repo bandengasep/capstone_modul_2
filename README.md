@@ -68,3 +68,6 @@ Kedua sub-wilayah dengan diskon terbesar dan marjin laba bersih terbesar adalah 
 2. **Eksekusi *Cost Benefit Analysis* & *Pricing Strategy***: Lakukan evaluasi menyeluruh terhadap sub-wilayah JAPN dan ANZ, serta wilayah APJ untuk penetapan harga yang sesuai dengan ekspektasi pelanggan dan kondisi pasar.
 
 3. **Optimasi Strategi Diskon & Inisiatif Penjualan**: Cari keseimbangan antara diskon dan margin keuntungan, serta formulasikan strategi *marketing* yang dapat meningkatkan laba bersih yang tidak memakai peningkatan diskon.
+
+## Tableau Dashboard
+Visualisasi Tableau bisa dilihat di [link ini](https://public.tableau.com/views/dashboard_saas_dataset/awsdashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
